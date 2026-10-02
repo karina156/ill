@@ -249,8 +249,6 @@ body {
 
   opacity: 0.85;
 
-  background-image: radial-gradient(circle, #ff42f5 1.8px, transparent 2px);
-
   background-size: 14px 14px;
 
   pointer-events: none;

@@ -81,8 +81,8 @@ body {
   left: 50%;
   top: 50%;
 
-  width: 140px;
-  height: 140px;
+  width: 140vw;
+  height: 140vw;
 
   object-fit: cover;
 
